@@ -1,0 +1,7 @@
+{
+  "name": "04AppNotificaciones",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
